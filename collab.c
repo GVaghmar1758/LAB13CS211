@@ -35,6 +35,6 @@ int main()
     
     reed_ekidan2();
     gvagh2_adomag2();
-    
+   
     return 0;
 }
