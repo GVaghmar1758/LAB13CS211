@@ -22,8 +22,8 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
-void gvagh2_partner2() {
-    printf("Gaurav Vaghmar and partner name\n");
+void gvagh2_adomag2() {
+    printf("Gaurav Vaghmar and Alex Domag\n");
     printf("We learned that GitHub is a cloud-based hosting service that lets you manage Git repositories.\n");
     printf("If you have open-source projects that use Git, then GitHub is designed to help you better manage them.\n");
 }
@@ -34,7 +34,7 @@ int main()
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
     reed_ekidan2();
-    gvagh2_partner2();
+    gvagh2_adomag2();
     
     return 0;
 }
